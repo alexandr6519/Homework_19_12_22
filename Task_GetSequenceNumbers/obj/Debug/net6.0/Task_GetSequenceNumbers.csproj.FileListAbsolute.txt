@@ -1,0 +1,15 @@
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\bin\Debug\net6.0\Task_GetSequenceNumbers.exe
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\bin\Debug\net6.0\Task_GetSequenceNumbers.deps.json
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\bin\Debug\net6.0\Task_GetSequenceNumbers.runtimeconfig.json
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\bin\Debug\net6.0\Task_GetSequenceNumbers.dll
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\bin\Debug\net6.0\Task_GetSequenceNumbers.pdb
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.csproj.AssemblyReference.cache
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.AssemblyInfoInputs.cache
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.AssemblyInfo.cs
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.csproj.CoreCompileInputs.cache
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.dll
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\refint\Task_GetSequenceNumbers.dll
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.pdb
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\Task_GetSequenceNumbers.genruntimeconfig.cache
+D:\GeekBrains\LearningOfC_Sharp\Homeworks\Homework_19_12_22\Task_GetSequenceNumbers\obj\Debug\net6.0\ref\Task_GetSequenceNumbers.dll

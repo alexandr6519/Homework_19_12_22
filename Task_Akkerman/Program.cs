@@ -12,13 +12,7 @@ try
     if (m < 1 || n < 1)
         Console.WriteLine("Enter positive numbers only!");
     else
-    {
         Console.WriteLine("The result of calculate of Akkerman's function of numbers {0} and {1} is {2}", m, n, CalculateFunctionAkkerman(m, n));
-        // PrintTable(array);
-        // Console.WriteLine("This is array after sorting of rows:");
-        // SortEachRowOfTableDescending(array);
-        // PrintTable(array);
-    }
 }
 catch
 {
